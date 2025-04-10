@@ -8,8 +8,9 @@
 
 ## 📂 Descripción del Repositorio
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.
-Se entrega en PDF el práctico 2 (Unidad Trabajo Colaborativo)
-Se entrega el práctico 3 (Unidad Estructuras condicionales)
+Se entrega en PDF el práctico 2 (Unidad 2 - Trabajo Colaborativo)
+Se entrega el práctico 3 (Unidad 3 - Estructuras condicionales)
+Se entrega el práctico 4 (Unidad 4 - Estructuras Repetitivas)
 
 📌 **Estructura del repositorio:**
 - Cada trabajo está organizado en carpetas individuales.
